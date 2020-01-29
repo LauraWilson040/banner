@@ -25,9 +25,13 @@ html {
 }
 
 .banner {
-
+  position: absolute;
+  max-height: 24em;
+  overflow: hidden;
 }
 
 .banner-content {
-
+  position: relative;
+  left: auto;
+  bottom: auto;
 }
